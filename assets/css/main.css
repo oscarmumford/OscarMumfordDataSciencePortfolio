@@ -3919,3 +3919,22 @@ input, select, textarea {
 	background-size: 70%;
 	padding: 0 8%;
 }
+
+.icons>li>a  {
+	padding: 20px
+
+}
+
+
+#profile-photo {
+	position: relative;
+	max-width: 20%;  
+	height: auto; 
+	aligh: right;
+	border-radius: 50%;
+}
+
+#title-separator {
+	color:purple
+}
+
