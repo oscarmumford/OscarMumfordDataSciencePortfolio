@@ -3938,3 +3938,9 @@ input, select, textarea {
 	color:purple
 }
 
+#cv-icon {
+	height: 5rem;
+
+display: inline;
+/* float: left; */
+}
