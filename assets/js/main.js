@@ -187,4 +187,12 @@
 				}
 			});
 
+	
+
 })(jQuery);
+
+//DRAGGABLE HATS
+
+$(function() {
+	$( ".draggable" ).draggable();
+  } );
