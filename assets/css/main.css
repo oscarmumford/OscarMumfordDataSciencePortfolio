@@ -3988,7 +3988,7 @@ input, select, textarea {
 	display:flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
-	border: 5px solid green;
+	/* border: 5px solid green; */
 }
 
 
@@ -3997,11 +3997,11 @@ input, select, textarea {
 }
 
 .cv-button-container {
-	border: 2px dashed red;
+	/* border: 2px dashed red; */
 	align-items: center;
 }
 
-.cv-button-container ul li {
+/* .cv-button-container ul li {
 	align-items: center;
 }
 
@@ -4011,7 +4011,7 @@ input, select, textarea {
 
 .cv-button-container ul {
 	align-items: center;
-}
+} */
 
 #cv-icon {
 
